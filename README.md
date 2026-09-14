@@ -10,6 +10,7 @@ Educational Faraday machines: mechanical work in → electricity out. **Not** fr
 | [**AFPM-Desk-v1**](AFPM-Desk-v1/) | Axial-flux, hand-crank, single rotor | `stl/` parts |
 | [**AFPM-Desk-v2**](AFPM-Desk-v2/) | Axial-flux dual-rotor SSDR + steel back-iron | `stl/fit_coupon.stl` then parts |
 | [**Coax-Faraday-v3**](Coax-Faraday-v3/) | Coaxial dual magnet drums + fixed coil | `stl/fit_coupon.stl` then parts |
+| [**AFPM-Desk-v4 PoleShoe**](AFPM-Desk-v4-PoleShoe/) | Axial-flux dual-rotor + steel back-iron + pole shoes, 12+12 / 9-coil 3-phase | `stl/fit_coupon.stl` then parts |
 
 ## Printer
 

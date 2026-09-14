@@ -1,0 +1,18 @@
+AFPM-Desk-v4 PoleShoe sim summary
+================================
+Assumptions: N42 Br=1.3 T, P=12, gap=1.75 mm/side, coil axial=10 mm
+Bg with pole shoes+back-iron (conservative): 0.360 T
+Bg without shoes (steel only): 0.321 T
+Bg v2-like (3 mm mag, no shoes): 0.232 T
+Bg upper teaching band (shoes): 0.485 T
+Phi_peak (conservative): 7.907e-05 Wb
+Turns/coil (28 AWG hand target): 200, R≈3.4 Ω
+
+@ 120 RPM: f=12.0 Hz
+  Voc 1 coil rms (cons.): 0.843 V
+  Voc 1 coil rms (upper): 1.138 V
+  Voc phase (3 ser):      2.529 V
+  Voc Y line-line:        4.381 V
+
+Order-of-magnitude @ 120 RPM: ~0.8–3 Vrms / coil; ~2–8 Vrms / phase; LED-scale after rectification.
+NOT free energy — mechanical work against Lenz drag supplies the power.
