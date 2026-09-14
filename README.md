@@ -4,6 +4,9 @@ Printable desktop **magnetic generators** by [Austin Carolino](https://github.co
 
 Educational Faraday machines: mechanical work in → electricity out. **Not** free-energy / overunity devices.
 
+**System / voice-to-parametric process:** [idea-to-print-pipeline](https://github.com/lucidlooney2030/idea-to-print-pipeline)
+This repo is the **hardware library** (OpenSCAD + STL + physics notes). New topology work still lands here. Pipeline work (agents, CadQuery port, gates) lands in the system repo.
+
 | Project | Topology | Print first |
 |--------|----------|-------------|
 | [**HF-RF16-SERP**](HF-RF16-SERP/) | Radial-flux **outer rotor**, 16P/16S single-phase **wave** winding | [`stl/HF-RF16-ONEPLATE.stl`](HF-RF16-SERP/stl/HF-RF16-ONEPLATE.stl) |
